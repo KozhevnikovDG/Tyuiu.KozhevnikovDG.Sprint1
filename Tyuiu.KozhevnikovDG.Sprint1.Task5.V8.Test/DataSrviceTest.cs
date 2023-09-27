@@ -19,6 +19,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint1.Task5.V8.Test
             int result = Convert.ToInt32(res);
 
             int wait = 5;
+            Assert.AreEqual(wait, result);
             
         }
     }
