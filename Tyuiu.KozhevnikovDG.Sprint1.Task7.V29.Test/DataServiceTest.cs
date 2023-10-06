@@ -11,7 +11,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint1.Task7.V29.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); //
             double x = 3;
             double y = 4;
             double wait = 3.108;
