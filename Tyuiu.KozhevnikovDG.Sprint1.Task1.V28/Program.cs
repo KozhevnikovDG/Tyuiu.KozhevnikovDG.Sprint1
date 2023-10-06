@@ -12,7 +12,8 @@ namespace Tyuiu.KozhevnikovDG.Sprint1.Task1.V28
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
+
 
             Console.Title = "Спринт #1 | Выполнил: Кожевников Д. Г. | ИИПБ-23-1";
 
