@@ -14,6 +14,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint1.Task0.V0
         {
             DataService ds = new DataService();
 
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
