@@ -12,7 +12,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint1.Task2.V8.Lib
     {
         public int CalculatePerimetr(int a, int b)
         {
-            return 2 * (a + b);
+            return 2 * (a + b);  
         }
     }
 }
